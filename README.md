@@ -4,7 +4,7 @@ By [ignatiys](https://github.com/ignatiysss) not a lot of changing just run inst
 
 ### Just run:
 ```sh
-chmod +x installMy.sh/
+chmod +x installMy.sh
 ./installMy.sh
 ```
 

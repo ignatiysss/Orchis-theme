@@ -1,5 +1,7 @@
 # Orchis theme
 
+By [ignatiys](https://github.com/ignatiysss) not a lot of changing just run installMy.sh
+
 Orchis is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
 
 Based on nana-4 -- [materia-theme](https://github.com/nana-4/materia-theme)
